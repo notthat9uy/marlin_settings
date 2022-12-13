@@ -20,5 +20,10 @@ CR-10S
 default_envs = mega2560
 ````
 
+CR-10S BigTreeTech SKR v.14
+```
+default_envs = LPC1769
+```
+
 ## Header config files
 Replace files in Marlin folder
